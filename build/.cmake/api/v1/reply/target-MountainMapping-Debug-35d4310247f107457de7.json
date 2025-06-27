@@ -1,0 +1,155 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "MountainMapping/libMountainMapping.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"MountainMapping/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 9,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 33,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 33,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++20"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/RawData"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/WeatherForecast"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/MountainMapping"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/MountainMapping/lib"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "20"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "pugixml-static::@618efe1ef85ae92afb48"
+		}
+	],
+	"id" : "MountainMapping::@312ff31358e467fe0c18",
+	"name" : "MountainMapping",
+	"nameOnDisk" : "libMountainMapping.a",
+	"paths" : 
+	{
+		"build" : "MountainMapping",
+		"source" : "MountainMapping"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "MountainMapping/src/Map_update.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "MountainMapping/src/Map_config.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

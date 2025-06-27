@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/build",
+  "command": "/usr/bin/clang++  -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/RawData -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/WeatherForecast -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/MountainMapping -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/TimeConfig -g -o CMakeFiles/MountainWeatherApp.dir/main.cpp.o -c /home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/main.cpp",
+  "file": "/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/main.cpp",
+  "output": "CMakeFiles/MountainWeatherApp.dir/main.cpp.o"
+},
+{
+  "directory": "/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/build/WeatherForecast",
+  "command": "/usr/bin/clang++  -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/RawData -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/WeatherForecast -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/WeatherForecast/lib -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/WeatherForecast/pugixml-1.15/src -g -std=gnu++20 -o CMakeFiles/WeatherForecast.dir/src/Forecast.cpp.o -c /home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/WeatherForecast/src/Forecast.cpp",
+  "file": "/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/WeatherForecast/src/Forecast.cpp",
+  "output": "WeatherForecast/CMakeFiles/WeatherForecast.dir/src/Forecast.cpp.o"
+},
+{
+  "directory": "/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/build/pugixml-1.15",
+  "command": "/usr/bin/clang++  -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/RawData -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/WeatherForecast -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/WeatherForecast/lib -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/WeatherForecast/pugixml-1.15/src -g -std=gnu++20 -fPIC -o CMakeFiles/pugixml-static.dir/src/pugixml.cpp.o -c /home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/WeatherForecast/pugixml-1.15/src/pugixml.cpp",
+  "file": "/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/WeatherForecast/pugixml-1.15/src/pugixml.cpp",
+  "output": "pugixml-1.15/CMakeFiles/pugixml-static.dir/src/pugixml.cpp.o"
+},
+{
+  "directory": "/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/build/MountainMapping",
+  "command": "/usr/bin/clang++  -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/RawData -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/WeatherForecast -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/MountainMapping -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/MountainMapping/lib -g -std=gnu++20 -o CMakeFiles/MountainMapping.dir/src/Map_update.cpp.o -c /home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/MountainMapping/src/Map_update.cpp",
+  "file": "/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/MountainMapping/src/Map_update.cpp",
+  "output": "MountainMapping/CMakeFiles/MountainMapping.dir/src/Map_update.cpp.o"
+},
+{
+  "directory": "/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/build/MountainMapping",
+  "command": "/usr/bin/clang++  -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/RawData -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/WeatherForecast -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/MountainMapping -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/MountainMapping/lib -g -std=gnu++20 -o CMakeFiles/MountainMapping.dir/src/Map_config.cpp.o -c /home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/MountainMapping/src/Map_config.cpp",
+  "file": "/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/MountainMapping/src/Map_config.cpp",
+  "output": "MountainMapping/CMakeFiles/MountainMapping.dir/src/Map_config.cpp.o"
+},
+{
+  "directory": "/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/build/TimeConfig",
+  "command": "/usr/bin/clang++  -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/RawData -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/WeatherForecast -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/MountainMapping -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/TimeConfig -I/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/TimeConfig/lib -g -std=gnu++20 -o CMakeFiles/TimeConfig.dir/src/time_formatter.cpp.o -c /home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/TimeConfig/src/time_formatter.cpp",
+  "file": "/home/ruairi/Code/RoHMoutainWeatherApp/IrishMountainWeatherApp/TimeConfig/src/time_formatter.cpp",
+  "output": "TimeConfig/CMakeFiles/TimeConfig.dir/src/time_formatter.cpp.o"
+}
+]

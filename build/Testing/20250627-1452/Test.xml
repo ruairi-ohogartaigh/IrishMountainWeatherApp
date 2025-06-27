@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-clang++"
+	BuildStamp="20250627-1452-Experimental"
+	Name="fedora"
+	Generator="ctest-3.31.6"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion="20.1.7"
+	OSName="Linux"
+	Hostname="fedora"
+	OSRelease="6.15.3-200.fc42.x86_64"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Thu Jun 19 15:00:25 UTC 2025"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ModelName="Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz"
+	ProcessorCacheSize="8192"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="8191"
+	TotalPhysicalMemory="15728"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2299.97"
+	>
+	<Testing>
+		<StartDateTime>Jun 27 16:20 IST</StartDateTime>
+		<StartTestTime>1751037611</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 27 16:20 IST</EndDateTime>
+		<EndTestTime>1751037611</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
