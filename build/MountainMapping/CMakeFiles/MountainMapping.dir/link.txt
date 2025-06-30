@@ -1,2 +1,0 @@
-/usr/bin/ar qc libMountainMapping.a CMakeFiles/MountainMapping.dir/src/Map_update.cpp.o CMakeFiles/MountainMapping.dir/src/Map_config.cpp.o
-/usr/bin/ranlib libMountainMapping.a

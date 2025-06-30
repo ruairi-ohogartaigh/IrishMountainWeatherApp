@@ -1,2 +1,0 @@
-/usr/bin/ar qc libWeatherForecast.a CMakeFiles/WeatherForecast.dir/src/Forecast.cpp.o
-/usr/bin/ranlib libWeatherForecast.a
